@@ -1,0 +1,5 @@
+python-propcache source: file-without-copyright-information
+python-propcache source: no-debian-changes
+python-propcache source: source-contains-prebuilt-windows-binary
+python-propcache source: source-is-missing
+python-propcache source: source-package-encodes-python-version
