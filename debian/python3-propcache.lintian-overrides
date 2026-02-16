@@ -1,0 +1,4 @@
+python3-propcache: copyright-without-copyright-notice
+python3-propcache: initial-upload-closes-no-bugs
+python3-propcache: no-manual-page
+python3-propcache: zero-byte-file-in-doc-directory
